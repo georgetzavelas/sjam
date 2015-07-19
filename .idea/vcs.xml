@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../cramtools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../htsjdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../picard" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cramtools/cramone.iml" filepath="$PROJECT_DIR$/../cramtools/cramone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../htsjdk/htsjdk.iml" filepath="$PROJECT_DIR$/../htsjdk/htsjdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../picard/picard.iml" filepath="$PROJECT_DIR$/../picard/picard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sjam.iml" filepath="$PROJECT_DIR$/sjam.iml" />
+    </modules>
+  </component>
+</project>

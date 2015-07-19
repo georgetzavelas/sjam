@@ -1,0 +1,2 @@
+htsjdk stuff to do
+- SJAMFileTest has the test method to execute
