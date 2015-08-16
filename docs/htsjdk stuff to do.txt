@@ -1,2 +1,7 @@
 htsjdk stuff to do
-- SJAMFileTest has the test method to execute
+- BerVisibleCompressedString compression/decompression works
+- Compression doesn't seem to make the text fields smaller, most likely due to the small size of the field
+  compared with the minimum effective compression size
+- SJAMFileTest (in the htsjdk module) has the test method to execute
+  - src\tests\java\htsjdk\samtools\sjam\SJAMFileTest
+  - Read is not working and has not been verified
